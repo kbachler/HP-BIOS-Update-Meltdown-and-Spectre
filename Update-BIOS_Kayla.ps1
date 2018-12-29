@@ -30,7 +30,7 @@
 # https://community.spiceworks.com/topic/2005262-command-line-syntax-to-update-password-protected-bios?utm_source=copy_paste&utm_campaign=growth 
 #--------------------------------------------------------------------------------------------------------------------------------------------------
 # Only needed for locally running the script:
-# Set-Location -Path \\snopud.com\root\DCM\Scripts\HP\Meltdown_Spectre
+# Set-Location -Path <OMITTED FOR PRIVACY>
 # Remove-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\PowerShell" -Name "ExecutionPolicy"
 # Set-ExecutionPolicy Bypass
 
